@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@types/node": "^18",
+    "nuxt": "^3.5.0"
+  },
+  "dependencies": {
+    "@rosskevin/ifvisible": "^3.3.3",
+    "dayjs": "^1.11.7",
+    "firebase": "^9.22.0",
+    "nanoid": "^4.0.2",
+    "nosleep.js": "^0.12.0"
+  }
+}
