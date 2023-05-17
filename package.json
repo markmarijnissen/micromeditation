@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@rosskevin/ifvisible": "^3.3.3",
+    "@vite-pwa/nuxt": "^0.0.8",
     "dayjs": "^1.11.7",
     "firebase": "^9.22.0",
     "nanoid": "^4.0.2",
